@@ -1,0 +1,51 @@
+<html>
+<head>
+
+<title> HTML Class one </title>
+
+</head>
+
+<body>
+<body bgcolor = "#10ff63">
+<body textcolor = "red">
+
+
+<font size = "+2"> <b> Basics of HTML Programming </b><br>
+<hr>
+</hr>
+
+<font size = "+1">
+<b><u>Lesson one :-</b></u> <br>
+<i>In this we will learn the Basics to Advance of Html programming in 6 Modules.</i><br>
+
+<font color="blue">
+<ul>
+<li>ABOUT HTML:-</li>
+<li>ABOUT ATTRIBUTES:-</li>
+<li>ABOUT BG-COLOR AND BG-IMAGE:-</li>
+</ul>
+
+<ol type = "I">
+<li>ABOUT HTML:-</li>
+<li>ABOUT ATTRIBUTES:-</li>
+<li>ABOUT BG-COLOR AND BG-IMAGE:-</li>
+</ol>
+
+<dl>
+<dt> HTML: </dt>
+<dd> hyper text markup language</dd>
+<dt> C#: </dt>
+<dd> C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. 
+C# enables developers to build many types of secure and robust applications that run in .NET. 
+C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. 
+This tour provides an overview of the major components of the language in C# 8 and earlier. 
+If you want to explore the language through interactive examples, try the introduction to C# tutorials.</dd>
+</dl>
+</body>
+
+<img src = ""
+border = "20" hspace = "50" vspace = "60">
+
+
+
+</html>
